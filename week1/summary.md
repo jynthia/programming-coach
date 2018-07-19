@@ -20,5 +20,22 @@ Tambem vamos começar a falar sobre Lógica de Programacão!
 - Introducão a lógica de programacão
 - Algoritmos e variaveis
 
+*Topicos de material complementar da semana*
+
+- O que esperar de um dev?
+- Front-end, back-end, full-stack: o que é isso?
+
+*O que você vai **fazer** essa semana?*
+
+- Criar uma conta no github
+- Fazer seus primeiros: fork, commit, pull request e issue report no github
+- Desenvolver seus primeiros algoritmos em pseudocodigo
+- Responder a um quiz dos conhecimentos adquiridos
+- Responder à tarefa do material complementar da semana
+
+**dica**
+
+Nas leituras e nos videos vão aparecer vários termos que voce poderá nao entender. A dica é: não deixe passar! Anote quais são e me envie através dos issues do GitHub. E CLARO, pesquise!
+
 
 
