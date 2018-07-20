@@ -15,9 +15,9 @@ Tambem vamos começar a falar sobre Lógica de Programacão!
 *O que voce precisa **BAIXAR** pra fazer as atividades?*
 
 - GIT!
-OSx https://git-scm.com/download/mac
-Windows https://gitforwindows.org/
-Linux https://git-scm.com/download/linux
+  - OSx https://git-scm.com/download/mac
+  - Windows https://gitforwindows.org/
+  - Linux https://git-scm.com/download/linux
 
 *O que vamos aprender?*
 
