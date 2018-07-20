@@ -15,7 +15,7 @@
 ###### *15 min*
 
 - [ ] [Sintaxe Markdown (em inglês)](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-- [ ] 
+- [ ] [Back-End e Front-End](https://www.youtube.com/watch?v=uBNRCRxB5GA)
 
 ## Atividades:
 
