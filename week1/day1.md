@@ -37,6 +37,7 @@
 - Editar arquivos no GitHub
 - Diferenca entre Git e GitHub
 - Material e alguns termos em inglês
+- Manipulacao do terminal/prompt de comando do seu sistema operacional
 
 ![Off You Go](https://media.giphy.com/media/69D4FSNqihhKpFcc1a/giphy.gif)
 
