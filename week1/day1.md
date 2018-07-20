@@ -1,6 +1,6 @@
 ## Introducão:
 
-### aprox. 20 min
+###### aprox. 20 min
 
 - [ ] [O Que Esperar de Um Dev?](https://conteudo.schoolofnet.com/o-que-esperar-de-um-dev?inf_contact_key=ea19a99cf18011d8985af250124c0ac3fceb64284e6c1ad26d29abbbced1b5f4)
 
@@ -8,11 +8,11 @@
 
 ## Git e GitHub:
 
-### aprox. 1h30 min
+###### aprox. 1h30 min
 
 ## Material Complementar:
 
-### aprox. 15 min
+###### aprox. 15 min
 
 - [ ] [Sintaxe Markdown (em inglês)](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [ ] 
