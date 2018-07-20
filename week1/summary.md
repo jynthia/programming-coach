@@ -1,4 +1,5 @@
-![Alt Text](https://media.giphy.com/media/GSrZUFaPs7yCs/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 #Bora lá pra primeira semana do treinamento!
 
