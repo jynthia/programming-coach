@@ -8,10 +8,20 @@
 
 ## Material Complementar:
 
+- [ ] [Sintaxe Markdown (em inglês)](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [ ] 
+
 ## Atividades:
 
 - [ ] Completar atividades listadas no material
 - [ ] Estudar todo o conteudo (duh!)
-- [ ] Enviar um *issue* para este repositorio! 
+- [ ] Enviar um *issue* para este repositorio!
+
+## Dica:
+
+- Nao esqueça de editar esse arquivo no seu repositorio marcando nas *task lists* as atividades e o conteúdo que você completou, vai te ajudar a organizar seus estudos! 
+- Guia para editar arquivos em .md (markdown) está no material complementar.
+
+![Off You Go](https://media.giphy.com/media/69D4FSNqihhKpFcc1a/giphy.gif)
 
 
