@@ -30,6 +30,14 @@
 - Durante os estudos, os conceitos em que você tiver dúvida a dica é: anote e pesquise! Caso nao se sinta seguro, crie um issue neste repositorio com o conceito e o que voce entendeu ate agora dele pra que eu possa te ajudar. 
 - **IMPORTANTE**: procure sempre ao enviar duvidas, explicar o que voce ja conseguiu compreender. Isso facilita o seu aprendizado e me ajuda a identificar os problemas!
 
+## Dificuldades:
+*Vou citar aqui algumas dificuldades que voce pode encontrar que sao propositais e fazem parte do aprendizado do curso! Nao se desespere, faz parte do processo e eu vou estar aqui pra acompanhar tudo!*
+
+- Conceitos e termos que nao são explicitamente explicados no material
+- Editar arquivos no GitHub
+- Diferenca entre Git e GitHub
+- Material e alguns termos em inglês
+
 ![Off You Go](https://media.giphy.com/media/69D4FSNqihhKpFcc1a/giphy.gif)
 
 
