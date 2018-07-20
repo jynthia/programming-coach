@@ -21,6 +21,8 @@
 
 - Nao esqueça de editar esse arquivo no seu repositorio marcando nas *task lists* as atividades e o conteúdo que você completou, vai te ajudar a organizar seus estudos! 
 - Guia para editar arquivos em .md (markdown) está no material complementar.
+- Durante os estudos, os conceitos em que você tiver dúvida a dica é: anote e pesquise! Caso nao se sinta seguro, crie um issue neste repositorio com o conceito e o que voce entendeu ate agora dele pra que eu possa te ajudar. 
+- **IMPORTANTE**: procure sempre ao enviar duvidas, explicar o que voce ja conseguiu compreender. Isso facilita o seu aprendizado e me ajuda a identificar os problemas!
 
 ![Off You Go](https://media.giphy.com/media/69D4FSNqihhKpFcc1a/giphy.gif)
 
