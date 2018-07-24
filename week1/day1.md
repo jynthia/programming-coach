@@ -16,7 +16,6 @@
 
 ###### *15 min*
 
-- [ ] [Sintaxe Markdown (em inglês)](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [ ] [Back-End e Front-End](https://www.youtube.com/watch?v=uBNRCRxB5GA)
 
 ## Atividades:
@@ -26,7 +25,6 @@
 
 ## Dica:
 
-- Guia para editar arquivos em .md (markdown) está no material complementar.
 - Durante os estudos, os conceitos em que você tiver dúvida a dica é: anote e pesquise! Caso nao se sinta seguro, crie um issue neste repositorio com o conceito e o que voce entendeu ate agora dele pra que eu possa te ajudar. 
 - **IMPORTANTE**: procure sempre ao enviar duvidas, explicar o que voce ja conseguiu compreender. Isso facilita o seu aprendizado e me ajuda a identificar os problemas!
 
