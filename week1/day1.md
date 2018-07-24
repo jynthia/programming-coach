@@ -8,6 +8,8 @@
 
 ## Git e GitHub:
 
+- [ ] [Material] (https://docs.google.com/document/d/1ltqI5vEz-s6LwNSROd-EDT9mUhgsx8gHtVrKRqC1I_E/edit?usp=sharing)
+
 ###### *1h30 min*
 
 ## Material Complementar:
