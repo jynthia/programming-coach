@@ -2,13 +2,41 @@
 
 ###### *20 min*
 
-- [ ] [O Que Esperar de Um Dev?](https://conteudo.schoolofnet.com/o-que-esperar-de-um-dev?inf_contact_key=ea19a99cf18011d8985af250124c0ac3fceb64284e6c1ad26d29abbbced1b5f4)
+- [ ] [GitHub vs GitLab](https://pt.wikiversity.org/wiki/GitHub_x_GitLab)
 
-- [ ] [Parábola do Git](https://renato-aquino.blogspot.com/2009/06/parabola-do-git.html)
+- [ ] [Git e GitHub Sao Coisas Diferentes](http://gabsferreira.com/git-e-github-sao-coisas-diferentes/)
 
-## Git:
+## GitHub:
 
-- [ ] [Material](https://docs.google.com/document/d/1ltqI5vEz-s6LwNSROd-EDT9mUhgsx8gHtVrKRqC1I_E/edit?usp=sharing)
+- [ ] [Criar conta no GitHub](https://www.github.com)
+
+- [ ] [Tutorial](https://br.udacity.com/blog/post/tutorial-iniciantes-git-github)
+  
+  - Utilize este tutorial para subir o repositorio que voce criou na aula passada para o GitHub.
+    
+    - Você tera que me enviar link para o seu repositorio no final da tarefa
+    
+- [ ] [Tutorial Fork](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
+  
+  - Nesse tutorial você irá aprender a fazer o seu primeiro pull request. 
+   
+  - Voce fará o exercício para dar o pull request [nesse repositorio](https://github.com/jynthia/programming-coach)
+   
+  - A alteracao que você fara será a inclusao de um arquivo. Nesse arquivo deverá ter o link para o repositorio que voce criou. Devera ser editado usando a sintaxe markdown (extensao .md) e conter a resposta para a seguinte pergunta:
+    
+    - **Como você explicaria o que é back-end e front-end para a sua avó?**
+    
+  - Seu fluxo de trabalho devera ser
+  
+    - criar uma copia do repositorio na sua conta e na sua maquina
+    
+    - adicionar e criar o arquivo ao seu repositorio
+    
+    - enviar para a minha branch original a solicitacao da alteracao
+    
+
+   
+   
 
 ###### *1h30 min*
 
@@ -17,7 +45,12 @@
 ###### *15 min*
 
 - [ ] [Sintaxe Markdown (em inglês)](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-- [ ] [Back-End e Front-End](https://www.youtube.com/watch?v=uBNRCRxB5GA)
+
+- [ ] [O que é Software Livre?](https://www.gnu.org/philosophy/free-sw.pt-br.html)
+
+- [ ] [Software Livre vs Codigo Aberto](https://www.diolinux.com.br/2015/03/diferenca-entre-software-livre-e-open-source.html)
+
+- [ ] [Conversa sobre issues](https://github.com/frontendbr/forum/issues/964)
 
 ## Atividades:
 
