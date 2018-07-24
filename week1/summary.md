@@ -32,6 +32,8 @@ Tambem vamos começar a falar sobre Lógica de Programacão!
 
 - O que esperar de um dev?
 - Front-end, back-end, full-stack: o que é isso?
+- Software Livre e codigo Open-Source
+- Linguagem Markdown
 
 *O que você vai **fazer** essa semana?*
 
