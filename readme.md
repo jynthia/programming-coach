@@ -1,4 +1,4 @@
-# Olá e bom diaaa!
+# Olá!
 
 Antes de mais nada, bem-vindo ao seu coach de programação <3 Eu me chamo Cinthia e eu estou muito empolgada pra aprender junto com você. Também quero te parabenizar pela iniciativa, aprender uma coisa nova nunca é fácil. Mas, não é tudo! O que vai determinar o seu sucesso no aprendizado é a sua determinação e eu vou estar aqui pra acompanhar todo o processo.
 
