@@ -6,7 +6,7 @@
 
 - [ ] [Parábola do Git](https://renato-aquino.blogspot.com/2009/06/parabola-do-git.html)
 
-## Git e GitHub:
+## Git:
 
 - [ ] [Material](https://docs.google.com/document/d/1ltqI5vEz-s6LwNSROd-EDT9mUhgsx8gHtVrKRqC1I_E/edit?usp=sharing)
 
@@ -23,7 +23,6 @@
 
 - [ ] Completar atividades listadas no material
 - [ ] Estudar todo o conteudo (duh!)
-- [ ] Enviar um *issue* para este repositorio!
 
 ## Dica:
 
