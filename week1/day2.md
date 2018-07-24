@@ -34,15 +34,11 @@
     
     - enviar para a minha branch original a solicitacao da alteracao
     
-
-   
-   
-
-###### *1h30 min*
+###### *1h*
 
 ## Material Complementar:
 
-###### *15 min*
+###### *30 min*
 
 - [ ] [Sintaxe Markdown (em inglês)](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
@@ -52,14 +48,18 @@
 
 - [ ] [Conversa sobre issues](https://github.com/frontendbr/forum/issues/964)
 
+- [ ] [Contribuindo para iniciantes](https://github.com/frontendbr/forum/issues/964)
+
 ## Atividades:
 
-- [ ] Completar atividades listadas no material
+- [ ] Completar atividades listadas na secao GitHub desse material
 - [ ] Estudar todo o conteudo (duh!)
+- [ ] Enviar um *issue* para este repositorio (pode ser uma pergunta, comentario...)
+  * pode enviar quantos issues voce quiser. Através deles que vou responder suas dúvidas.
 
 ## Dica:
 
-- Nao esqueça de editar esse arquivo no seu repositorio marcando nas *task lists* as atividades e o conteúdo que você completou, vai te ajudar a organizar seus estudos! 
+- Recomendo que você leia os tutoriais antes e tente entende-los e so depois tente realizar as tarefas ensinadas.
 - Guia para editar arquivos em .md (markdown) está no material complementar.
 - Durante os estudos, os conceitos em que você tiver dúvida a dica é: anote e pesquise! Caso nao se sinta seguro, crie um issue neste repositorio com o conceito e o que voce entendeu ate agora dele pra que eu possa te ajudar. 
 - **IMPORTANTE**: procure sempre ao enviar duvidas, explicar o que voce ja conseguiu compreender. Isso facilita o seu aprendizado e me ajuda a identificar os problemas!
@@ -70,7 +70,9 @@
 - Conceitos e termos que nao são explicitamente explicados no material
 - Material e alguns termos em inglês
 - Manipulacao do terminal/prompt de comando do seu sistema operacional
+- Decisao por alterar arquivos no GitHub ou pelo terminal
+- O que sao issues e outros detalhes nao explicitados do GitHub
 
-![Off You Go](https://media.giphy.com/media/69D4FSNqihhKpFcc1a/giphy.gif)
+![Off You Go](https://media.giphy.com/media/FJgynePi8740E/giphy.gif)
 
 
