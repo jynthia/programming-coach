@@ -35,8 +35,6 @@
 *Vou citar aqui algumas dificuldades que voce pode encontrar que sao propositais e fazem parte do aprendizado do curso! Nao se desespere, faz parte do processo e eu vou estar aqui pra acompanhar tudo!*
 
 - Conceitos e termos que nao são explicitamente explicados no material
-- Editar arquivos no GitHub
-- Diferenca entre Git e GitHub
 - Material e alguns termos em inglês
 - Manipulacao do terminal/prompt de comando do seu sistema operacional
 
