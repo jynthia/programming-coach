@@ -8,6 +8,8 @@
 
 ## GitHub:
 
+###### *1h*
+
 - [ ] [Criar conta no GitHub](https://www.github.com)
 
 - [ ] [Tutorial](https://br.udacity.com/blog/post/tutorial-iniciantes-git-github)
@@ -34,7 +36,6 @@
     
     - enviar para a minha branch original a solicitacao da alteracao
     
-###### *1h*
 
 ## Material Complementar:
 
