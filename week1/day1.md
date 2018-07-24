@@ -16,7 +16,9 @@
 
 ###### *15 min*
 
-- [ ] [Back-End e Front-End](https://www.youtube.com/watch?v=uBNRCRxB5GA)
+- [ ] [Back-End e Front-End - video](https://www.youtube.com/watch?v=uBNRCRxB5GA)
+
+- [ ] [Back-End e Front-End - texto](https://becode.com.br/back-end-front-end-full-stack/)
 
 ## Atividades:
 
